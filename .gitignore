@@ -1,0 +1,9 @@
+.env
+*.db
+__pycache__/
+*.pyc
+cvm_fundos_cad.csv
+cvm_registro_fundo.csv
+cvm_medidas_fie_*.csv
+*.zip
+fidcs_debug_*.txt
