@@ -31,7 +31,7 @@ Agente de IA com LangGraph que automatiza a análise de risco de crédito de FID
 ## 🔧 Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/radar-credito-fidc.git
+git clone https://github.com/mtamorim02/radar_credito_fidc.git
 cd radar-credito-fidc
 
 # Crie e ative o ambiente virtual
