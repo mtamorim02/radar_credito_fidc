@@ -1,0 +1,7 @@
+# Radar de Crédito FIDC — Lista de Fundos
+# Um CNPJ por linha. Linhas com # são ignoradas.
+# Formato: CNPJ;Nome opcional
+
+# Exemplos:
+# 31.894.563/0001-02;BELSINOS
+# 41.265.819/0001-68;M CREDIT FIDC
